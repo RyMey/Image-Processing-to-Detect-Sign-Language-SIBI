@@ -1,4 +1,4 @@
-# OpenCV_Bisindo_Recognition
+# OpenCV_SIBI_Recognition
 Pendetek bahasa isyarat
 - main_add_image.py berisi tampilan untuk menyimpan dataset
 - main_predict_class.py berisi tampilan memperlihatkan hasil prediksi citra
